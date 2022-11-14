@@ -5,6 +5,7 @@
 the freedom project, tinkering, realizing what I was passionate about, realizing conitnuing the same tool and same exact idea / functions is not what i want to work on
 #### Revisitng last year
 Book app but more modernized, more functions and more reach 
+For last years 
 #### My tool for this project
 Swift, since I want to take my project and upgrade it into an advanced version of it
 ##### Why Google App Scripts doesn't work here
