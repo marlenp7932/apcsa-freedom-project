@@ -19,5 +19,5 @@ In regards to skills, during the first researching phase, and making choices sta
 * And for *How to Learn*, I read a lot of forums on the Swift community tab and watched a lot of the latest videos because Swift is an app that is constantly releasing updates and changes, so to keep on top of it and learn the most up to date version, I had to mostly stick to the Swift online community on the Swift website. <br>
 
 
-[Next Entry](entry02.md)
+[Next Entry](entry02.md)<br>
 [Home](../README.md)
