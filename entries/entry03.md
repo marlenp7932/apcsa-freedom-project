@@ -1,8 +1,5 @@
-# Entry 3
-##### X/X/XX
+# Entry 3 - 
+### 02.06.23
 
-Text
-
-[Previous](entry02.md) | [Next](entry04.md)
-
+[Previous Entry](entry02.md) | [Next Entry](entry04.md)<br>
 [Home](../README.md)
