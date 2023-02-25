@@ -7,7 +7,12 @@ In the last blog, I had briefly mentioned how I was going to watch a few videos 
 The [series](https://youtube.com/playlist?list=PLMRqhzcHGw1Y5Cluhf7pKRNZtKaA3Q4kg) I found on Youtube allowed me to get started on Xcode, and fully familairize myself with the library and how to form and also test code through experiencing it myself. <br>
 
 ##### What I made / learnt from the first video <br>
-In the first video, one of the things that I initially did was erase the original code that comes when you start a new project, and in a way recreate it from scratch to be able to learn the pieces of the Xcode library. As I watched the video, I found most helpful to take notes on a piece of paper of what was being told, except in a way I could understand. Then, as a way of review, I transfereed these notes into my digital notes. After this, I would usallay play the code along portions of the video lessons and work along with them so that I could get a hand on exprience coding on Xcode. 
+For each of the lessons in this mini series, I often watched each video twice. Once for general notes and getting what I was learning in my head, the second time usually to review any parts I didn't understand, as well as try out the code skills I learnt for myslf. As I watched the video, I found most helpful to take notes on a piece of paper of what was being told, except in a way I could understand. Then, as a way of review, I transfereed these notes into my digital notes. After the first watch of the video, this is often what I was left with: 
+
+(snippet of notes using the final notes from the first video of the lessons)
+<img width="637" alt="note snippet blog 2" src="https://user-images.githubusercontent.com/73554006/221331017-6238bd46-843b-474e-b284-28533cb8c097.png">
+
+Then for the second watch, I would usallay play the code along portions of the video lessons and work along with them so that I could get a hand on exprience coding on Xcode. For example, the point of the first video was introducing the library, which a lot the code elements (such as stacks, font elements etc) I'll be using for my project will be in. In creating a sample app with these elements, I not only learned how to work with the library that comes in Xcode, I learnt how to create parts of my own future project (e.g, I would need having multiple stack eleemtns in order to organize the different portions, such as text boxes, images, and buttons, properly on the screen).
 #### Using a resource from the summer <br>
 
 #### Next steps <br>
