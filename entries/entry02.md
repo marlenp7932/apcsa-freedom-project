@@ -12,7 +12,32 @@ For each of the lessons in this mini series, I often watched each video twice. O
 (snippet of notes using the final notes from the first video of the lessons)
 <img width="637" alt="note snippet blog 2" src="https://user-images.githubusercontent.com/73554006/221331017-6238bd46-843b-474e-b284-28533cb8c097.png">
 
-Then for the second watch, I would usallay play the code along portions of the video lessons and work along with them so that I could get a hand on exprience coding on Xcode. For example, the point of the first video was introducing the library, which a lot the code elements (such as stacks, font elements etc) I'll be using for my project will be in. In creating a sample app with these elements, I not only learned how to work with the library that comes in Xcode, I learnt how to create parts of my own future project (e.g, I would need having multiple stack eleemtns in order to organize the different portions, such as text boxes, images, and buttons, properly on the screen).
+Then for the second watch, I would usallay play the code along portions of the video lessons and work along with them so that I could get a hand on exprience coding on Xcode. For example, the point of the first video was introducing the library, which a lot the code elements (such as stacks, font elements etc) I'll be using for my project will be in. In creating a sample app with these elements, I not only learned how to work with the library that comes in Xcode, I learnt how to create parts of my own future project (e.g, I would need having multiple stack eleemtns in order to organize the different portions, such as text boxes, images, and buttons, properly on the screen). For the first video, I ended up with the following code: 
+``` Swift
+struct ContentView: View {
+    var body: some View {
+        ZStack {
+            Color(red: 0.5, green: 0.5, blue: 0.5).ignoresSafeArea()
+            VStack {
+                Image("cat")
+                    .resizable()
+                    .cornerRadius(40.0)
+                    .aspectRatio(contentMode: .fit)
+                    .padding(3)
+                Text("This is a cat")
+                    .font(.largeTitle)
+                    .fontWeight(.heavy)
+            }
+        }
+    }
+}
+```
+Which created the following: 
+
+<img width="546" alt="cat view coding" src="https://user-images.githubusercontent.com/73554006/221331435-c41d1f14-7c35-4100-8f5e-d744db83ca8e.png">
+
+Although it does not appear like much, this code had a lot of parts in it that were important to learn. As I mentioned before with the different stacks that organize elements for the UI, having a Vstack inside of a Zstack allowed for the grey background to actually appear as a grey background. Otherwise, it would appear in front of the cat image and text box, covering the entire screen. Furthermore, the Vstack itself organized the image and text vertically instead of on top of each other. Modifiers seen under the image and text (rezisable and corner radius etc) were for the UI as a whole, and to ensure it all looked good. The resizable made sure the image looked good on each screen no matter the size, and something like `.ignoresSafeArea()` is to make sure the colored background fills in the top and bottom spaces on a mobile device. 
+
 #### Using a resource from the summer <br>
 
 #### Next steps <br>
