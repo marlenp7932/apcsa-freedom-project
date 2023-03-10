@@ -13,8 +13,9 @@ I wanted to map out exactly what my project would look like all on one screen. I
 The more specific functions of how they work on will be worked on later as that is mostly the bulk of the project, but I first wanted to know what I will be working towards specifically on the front end (bascially my idea was work on visualize front end, work on back end, finalize front end). Using another resource, I then mapped out each of the pages and how exactly they would look like, ending up with something like this:
 In the diagram I basically made a main menu that the user will open up to in the screen. Then in the middle there will be four buttons, the user can click on either of those depending on what they want to do, and the button will take the user to the designated page. From there the user can do what they need to and on the bottom I am hoping to find a way so that the user can go back to the main menu easily. 
 #### Next steps <br>
-
+My next steps now that I know what I am aiming to make is to actually begin the project. I wanted to get a few more tests in, but I mostly want to focus on looking for the methods and code snippets and ideas I will be using for my project and test them out. My main coding goal especially is to ensure that eveyrhting I want to make, all the pages and functions are able to work together cohesively to make a well functioning MVP.
 #### Where I am / skills <br>
+In the **E**ngineering **D**esign **P**rocess,
 
 
 
