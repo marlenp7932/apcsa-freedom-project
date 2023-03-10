@@ -15,7 +15,10 @@ In the diagram I basically made a main menu that the user will open up to in the
 #### Next steps <br>
 My next steps now that I know what I am aiming to make is to actually begin the project. I wanted to get a few more tests in, but I mostly want to focus on looking for the methods and code snippets and ideas I will be using for my project and test them out. My main coding goal especially is to ensure that eveyrhting I want to make, all the pages and functions are able to work together cohesively to make a well functioning MVP.
 #### Where I am / skills <br>
-In the **E**ngineering **D**esign **P**rocess,
+In the **E**ngineering **D**esign **P**rocess, I find myself now in Step 4 of planning the most promising solution. I am mapping out what the best solution is for what my project could look like since one of the most important things in an app is how the user will be using it. Mapping it out allows me to make the app user friendly so that the rest of the functions could work well. If the app back end works well, but the user can not even use it, then there is no point. <br>
+As for skills, I found myself really only using the skills of *attention to detail* and *consideration*. 
+* For *attention to detail* while mapping out my plan, I had to make sure to get the small details of the functions for my app. One example being the return button. Once a user clicks into a menu, I realized there would need to be a small detail of adding some sort of way to get back to the main menu, especially if a user were to want to do something else. 
+* Going hand in hand with the other skill, I especially practiced the skill of *consideration* in this part. Since I want to make sure my app is the most user friendly, while planning the layoiut and small buttons and functions of my app, I was really considering how it would be used by others. I made a list in my head of all possible issues that could appear with others using it and tried a lot to address them so that these issues would not appear at all. In the end both these skills allowed me to plan out my applilication the best way I could and sets me up to code my app in a prepared way.
 
 
 
