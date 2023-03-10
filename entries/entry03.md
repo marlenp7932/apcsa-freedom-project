@@ -8,7 +8,8 @@ Since I now know how to work with Swift, I shifted my focus over to what I will 
 #### The big picture
 I wanted to map out exactly what my project would look like all on one screen. I knew I wanted: 
 * A total of 4 functions with each their own separate app page / menu
-* A main menu where you can access either of these pages on
+* A main menu where you can access either of these pages on <br>
+
 The more specific functions of how they work on will be worked on later as that is mostly the bulk of the project, but I first wanted to know what I will be working towards specifically on the front end (bascially my idea was work on visualize front end, work on back end, finalize front end). Using another resource, I then mapped out each of the pages and how exactly they would look like, ending up with something like this:
 In the diagram I basically made a main menu that the user will open up to in the screen. Then in the middle there will be four buttons, the user can click on either of those depending on what they want to do, and the button will take the user to the designated page. From there the user can do what they need to and on the bottom I am hoping to find a way so that the user can go back to the main menu easily. 
 #### Next steps <br>
