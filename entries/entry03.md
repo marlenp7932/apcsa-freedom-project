@@ -11,6 +11,9 @@ I wanted to map out exactly what my project would look like all on one screen. I
 * A main menu where you can access either of these pages on <br>
 
 The more specific functions of how they work on will be worked on later as that is mostly the bulk of the project, but I first wanted to know what I will be working towards specifically on the front end (basically my idea was work on visualize front end, work on back end, finalize front end). Using another resource, I then mapped out each of the pages and how exactly they would look like, ending up with something like this:
+
+<img width="819" alt="Screenshot 2023-03-10 at 4 39 30 PM" src="https://user-images.githubusercontent.com/73554006/224433458-76602013-4b2e-4858-b8ab-9839718cced8.png">
+
 In the diagram I basically made a main menu that the user will open up to on the screen. Then in the middle there will be four buttons, the user can click on either of those depending on what they want to do, and the button will take the user to the designated page. From there the user can do what they need to and on the bottom I am hoping to find a way so that the user can go back to the main menu easily. 
 #### Next steps <br>
 My next steps now that I know what I am aiming to make is to actually begin the project. I wanted to get a few more tests in, but I mostly want to focus on looking for the methods and code snippets and ideas I will be using for my project and test them out. My main coding goal especially is to ensure that everything I want to make, all the pages and functions are able to work together cohesively to make a well functioning MVP.
