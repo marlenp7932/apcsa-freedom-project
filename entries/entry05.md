@@ -10,6 +10,10 @@ One of the keys to being able to transfer data between screens, which I needed f
 <img width="483" alt="Screenshot 2023-04-28 at 1 06 53 PM" src="https://user-images.githubusercontent.com/73554006/235210594-358f4e32-0268-40a2-964f-f4c85aa684be.png"> <br>
 As seen above in storyboarding, I can more easily design each screen for my project. Then, using segues, I can connect each separate screen together and tell the computer to move to the screen it is pointing to depending on the action. For my project, the setting I put was *when this button is clicked, move (show) the next screen*. That command is what the segue is controlling. With this method, I was more able to connect each screen and be able to move data more fluidly through the code. <br>
 #### View controller one <br>
+In designing my project, and considering that I had to restart, I grabbed the basic ideas of what I wanted to do, but changed them around. Rather than having a home screen, I went straight into the organized list. Then on that screen there would be a button when pressed that takes you to the adding function. In there you would enter the information regarding the book you're adding, and then you click the add button. Once clicked, it will go back to the first screen and add the information to present onto the list. Making this work, I had to create two *view controllers*, one that holds the list and one that shows where the user will input the data. This is what my first view controller code looks like (on the top) and on the bottom is what the output is. <br>
+<img width="627" alt="Screenshot 2023-04-28 at 1 26 13 PM" src="https://user-images.githubusercontent.com/73554006/235214771-828484fe-4c2f-46bf-85b2-973c75417bd8.png"><img width="393" alt="Screenshot 2023-04-28 at 1 23 03 PM" src="https://user-images.githubusercontent.com/73554006/235214784-05c1e768-f381-4471-be64-bd13d640ae88.png"> <br>
+It is a lot of code for a simple function because there are different parts that are needed to ensure things work properly. To highlight some of the important functions: <br>
+
 
 #### View controller two
 
