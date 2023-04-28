@@ -83,8 +83,8 @@ This code ensures that the text field has something in it, since we do not want 
 This is what saves the data. It creates the count that we saw increment in the other viewcontroller, adds one for each save, and also creates keys such as new books and the title. The `update?()` is what calls the updating book functionality in the other code. <br>
 #### How the connection works
 To explain the connection between all of these functions, when you load up the project, the first thing that runs is the added book function. When that function runs through, it creates the space to add a book and also switches to the other screen. There, we begin to run the checks for the text field (ensure that they are not empty) and then run the functions that saves the book title (in the space we created before) and updates (or starts if it's the first addition) the count. Once that is done, and before the user even clicks add book, the update books function begins running that appends the data we just received from the other screen as well as clearing any unnecessary or not saved data from before. Then, once the user clicks add, it will fully push the data we have saved in the array onto the lists UI, where the book we just added presents. The overall project is a process of back and forth communication between each of the screens functions all compiled into a few button clicks. <br>
-#### Beyond MVP
-
+#### Beyond MVP <br>
+For my beyond MVP, I really want to focus on creating more functions for the application and I want to create a better layout for the storyboard as the code is very complicated, I only had the chance to focus on a very basic and simple layout. <br>
 #### Where I am + Goals and EDP
 
 [Previous](entry04.md) | [Next](entry06.md)
