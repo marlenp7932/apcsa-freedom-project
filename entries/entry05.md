@@ -85,7 +85,12 @@ This is what saves the data. It creates the count that we saw increment in the o
 To explain the connection between all of these functions, when you load up the project, the first thing that runs is the added book function. When that function runs through, it creates the space to add a book and also switches to the other screen. There, we begin to run the checks for the text field (ensure that they are not empty) and then run the functions that saves the book title (in the space we created before) and updates (or starts if it's the first addition) the count. Once that is done, and before the user even clicks add book, the update books function begins running that appends the data we just received from the other screen as well as clearing any unnecessary or not saved data from before. Then, once the user clicks add, it will fully push the data we have saved in the array onto the lists UI, where the book we just added presents. The overall project is a process of back and forth communication between each of the screens functions all compiled into a few button clicks. <br>
 #### Beyond MVP <br>
 For my beyond MVP, I really want to focus on creating more functions for the application and I want to create a better layout for the storyboard as the code is very complicated, I only had the chance to focus on a very basic and simple layout. <br>
-#### Where I am + Goals and EDP
+#### Where I am + Goals and EDP <br>
+In the **E**ngineering **D**esign **P**rocess, I found myself going through steps 5 through 7. I had to create an entirely different prototype and test said prototype to ensure it worked properly. For skills, I believe I mostly used skills of *growth mindset*, *embracing failure*, and *debugging*. <br>
+* For a *growth mindset*, I feel this mostly came into play when I had to create an entirely different project. I felt very stuck in having to recode a lot and relearn some new things but having the patience to keep going allowed me to pull out even a small project that I am proud of
+* Similarly, *embracing failure* happened when I first came with the code and really realized my original methods that I worked in the last four blogs would not work. Once I let it happen and it all clicked is when I was able to work diligently.
+* Finally, for *debugging*, this was because all my code worked together back and forth, so I often came across errors where I believed were in one screen, but it actually ended up being in the other, and vice versa. This constant problem allowed me to practice debugging and persisting through trying to solve the problems. In fact, there would be some moments where I even had to speak the problem out loud to really pinpoint where the issue is. 
+<br>
 
 [Previous](entry04.md) | [Next](entry06.md)
 
