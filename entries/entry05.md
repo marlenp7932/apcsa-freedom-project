@@ -6,8 +6,10 @@ A major update from my project was once I had created the separate pages, I need
 #### Having to restart <br>
 With restarting, I also took the opportunity to set up the proper file. One of my major problems when researching help videos for transferring data between viewcontrollers was that they were using different methods that were not available to me because, when I initially started my file, I made it multiplatform. A lot of the data transfer for Xcode is done with *mobile* only. Although I recognize that there are methods to be able to implement data transfer for multi platform applications, the resources and time I needed to be able to find this was not available. I created a new file for my project and switched to a mobile application framework only so that I can implement the focal point of my projects function. <br>
 #### Storyboarding <br>
-
-#### View controller one
+One of the keys to being able to transfer data between screens, which I needed for my project to function, is **storyboarding**. <br>
+<img width="483" alt="Screenshot 2023-04-28 at 1 06 53 PM" src="https://user-images.githubusercontent.com/73554006/235210594-358f4e32-0268-40a2-964f-f4c85aa684be.png"> <br>
+As seen above in storyboarding, I can more easily design each screen for my project. Then, using segues, I can connect each separate screen together and tell the computer to move to the screen it is pointing to depending on the action. For my project, the setting I put was *when this button is clicked, move (show) the next screen*. That command is what the segue is controlling. With this method, I was more able to connect each screen and be able to move data more fluidly through the code. <br>
+#### View controller one <br>
 
 #### View controller two
 
