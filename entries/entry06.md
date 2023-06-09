@@ -1,8 +1,17 @@
-# Entry 6
-##### X/X/XX
+# Entry 6 - Expo and presentation
+##### 04/17/23
 
-Text
+#### Preparing for the Expo <br>
 
-[Previous](entry05.md) | [Next](entry07.md)
+
+#### Expo Takeaways <br>
+
+#### Class presentation preparation <br>
+
+#### Presentation Takeaways <br>
+
+#### Where I am + EDP / Goals <br>
+
+[Previous Entry](entry05.md) 
 
 [Home](../README.md)
