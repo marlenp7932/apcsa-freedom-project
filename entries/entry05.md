@@ -92,6 +92,6 @@ In the **E**ngineering **D**esign **P**rocess, I found myself going through step
 * Finally, for *debugging*, this was because all my code worked together back and forth, so I often came across errors where I believed were in one screen, but it actually ended up being in the other, and vice versa. This constant problem allowed me to practice debugging and persisting through trying to solve the problems. In fact, there would be some moments where I even had to speak the problem out loud to really pinpoint where the issue is. 
 <br>
 
-[Previous](entry04.md) | [Next](entry06.md)
+[Previous Entry](entry04.md) | [Next Entry](entry06.md)
 
 [Home](../README.md)
