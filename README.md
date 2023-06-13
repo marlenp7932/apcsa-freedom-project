@@ -1,8 +1,8 @@
-# APCSA Freedom Project
+# Book Nook
 by Marlen Penafort
 
 ## Context
-The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
+The “Freedom Project” for APCSA is all about creating a interactive book organizer IOS application. The purpose of this blog is to describe my journey in creating this app, through my lenses and seeing how I understood and struggled to create a final functioning project.
 
 ## Content
 For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
@@ -24,7 +24,3 @@ X
 * [Blog Entry 4](entries/entry04.md)
 * [Blog Entry 5](entries/entry05.md)
 * [Blog Entry 6](entries/entry06.md)
-* [Blog Entry 7](entries/entry07.md)
-* [Blog Entry 8](entries/entry08.md)
-* [Blog Entry 9](entries/entry09.md)
-* [Blog Entry 10](entries/entry10.md)
